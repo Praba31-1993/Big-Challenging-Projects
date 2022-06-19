@@ -1,0 +1,6 @@
+Delete Functionality:
+
+     we are saying to filter only the id of all datas and row datas not equal 
+     
+we need to filter to delete the row. and display the remaining datas in the table 
+			
