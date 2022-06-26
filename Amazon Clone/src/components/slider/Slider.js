@@ -2,13 +2,13 @@ import React, {useState, useEffect} from 'react';
 import "./Slider.css"
 import {ArrowForwardIos, ArrowBackIos} from "@material-ui/icons"
 
-export const Slider = ({images}) => {
+const Slider = ({images}) => {
     const [index, setIndex] = useState(0);
     
     useEffect(()=>{
         const lastIndex = images.length -1;
-        console.log("index of images", lastIndex)
-        console.log("Length of images", images.length)
+        // console.log("index of images", lastIndex)
+        // console.log("Length of images", images.length)
         if(index<0)
         {
             setIndex(lastIndex)
@@ -58,3 +58,5 @@ export const Slider = ({images}) => {
     </div>
   )
 }
+
+export default Slider

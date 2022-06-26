@@ -8,7 +8,7 @@ const products = [
       "Care Instructions: Machine Wash",
       "Fit Type: Regular",
       "Regular fit and Full sleeve shirt",
-      "Pattern - Printed Men’s Formal Shirt",
+      "Pattern - Printed Men's Formal Shirt",
       "Double yoke for extra durability & stiffness; Patch pocket at chest",
       "Machine wash",
       "Made in India",
@@ -32,7 +32,7 @@ const products = [
       "Memory, Storage & SIM: 4GB RAM | 64GB UFS 2.2 storage expandable up to 512GB with dedicated SD card slot | Dual SIM (nano+nano) dual standby (4G+4G)",
     ],
     detail:
-      "‎Dual Stereo Speakers for immersive audio experience, The display is protected by Corning Gorilla Glass 3, 33W Fast Charger in box, 67% in 30 mins, 3.5mm Jack, IR Blaster, Dedicated Micro SD Slot, Z-Axis Linear Vibration Motor, 48 MP AI Quad Camera Setup 8MP Ultrawide-FOV 118 degrees 2 MP Macro Sensor 2 MP Depth Sensor Slow Motion Support - Up to 960 fps Portrait | Panaroma | Time Lapse | Pro Mode | Night Mode | Short Video Mode | Ultra wide-angle distortion correction | Custom Watermark | Document mode | HDR | AI scene detection | Video macro mode | Movie frame | Time burst | Google Lens| AI Watermark",
+      "Dual Stereo Speakers for immersive audio experience, The display is protected by Corning Gorilla Glass 3, 33W Fast Charger in box, 67% in 30 mins, 3.5mm Jack, IR Blaster, Dedicated Micro SD Slot, Z-Axis Linear Vibration Motor, 48 MP AI Quad Camera Setup 8MP Ultrawide-FOV 118 degrees 2 MP Macro Sensor 2 MP Depth Sensor Slow Motion Support - Up to 960 fps Portrait | Panaroma | Time Lapse | Pro Mode | Night Mode | Short Video Mode | Ultra wide-angle distortion correction | Custom Watermark | Document mode | HDR | AI scene detection | Video macro mode | Movie frame | Time burst | Google Lens| AI Watermark",
     image:
       "https://images-na.ssl-images-amazon.com/images/I/71OGzLCrjZS._SL1500_.jpg",
   },
@@ -68,7 +68,7 @@ const products = [
       "2.35kg laptop",
     ],
     detail:
-      "It’s not just another gaming laptop, it’s THE gaming laptop. Obviously, the OMEN 15 has a powerful Intel® processor and NVIDIA® graphics in a compact frame. Did we mention it has a fast display and long battery life? Yeah, it has everything and you can take it even further with OMEN Gaming Hub. So, just enjoy those envious looks while you play, it’s only natural with a beautiful machine. The OMEN 15 is a perfect example of how there can never be too much of a good thing. With a powerful Intel® processor and NVIDIA® graphics cooled by OMEN Tempest Cooling, it makes you think how it all fits into such a tiny little package.",
+      "It's not just another gaming laptop, it's THE gaming laptop. Obviously, the OMEN 15 has a powerful Intel® processor and NVIDIA® graphics in a compact frame. Did we mention it has a fast display and long battery life? Yeah, it has everything and you can take it even further with OMEN Gaming Hub. So, just enjoy those envious looks while you play, it’s only natural with a beautiful machine. The OMEN 15 is a perfect example of how there can never be too much of a good thing. With a powerful Intel® processor and NVIDIA® graphics cooled by OMEN Tempest Cooling, it makes you think how it all fits into such a tiny little package.",
     image:
       "https://images-na.ssl-images-amazon.com/images/I/71FHcGAPevL._SL1498_.jpg",
   },
