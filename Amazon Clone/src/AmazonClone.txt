@@ -1,4 +1,0 @@
-Command:
-
-1. firebase global command : npm i firebase-tools
-2. react router dom, redux, redux thunk, redux logger moment: npm i react-router-dom redux react-redux redux-thunk redux-logger moment
