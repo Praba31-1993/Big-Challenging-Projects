@@ -1,0 +1,8 @@
+Input: Card with Submit button
+Ouput: While clicking Submit button blue border will appear in which card I select
+
+Problem I faced : while passing index value in onclick function
+
+Mistake I Done : I passed 2 Argument in onclick{(e,i)=>func(i)}
+
+Correct Method: onclick{(e)=>func(i)}
