@@ -1,0 +1,11 @@
+{
+    "users":[
+        {
+            "id":1,
+            "name":"Praba",
+            "email":"praba@gmail.com",
+            "address":"INDIA"
+
+        }
+    ] 
+}
