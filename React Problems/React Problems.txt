@@ -1,1 +1,8 @@
 1. To use createStore in redux we need to use redux(v 4.1.2) and react-redux(v7.2.6)
+2. To run Json Server we need to type this command in package.json inside "scripts"{
+"server" : "npx json-server --watch db.json --port 3001"
+}
+		
+
+ 
+
