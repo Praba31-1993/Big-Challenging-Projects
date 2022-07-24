@@ -1,0 +1,20 @@
+Libraries and Packages:
+
+1. Redux - v4.1.6
+2. React-redux- v7.2.6
+3. react-bootstrap - npm install react-bootstrap bootstrap
+4. react Material UI core - npm install @mui/material @emotion/react @emotion/styled
+5. react Material UI Icons - npm install @mui/icons-material
+6. react-router-dom - npm i react-router-dom
+7. Font awesome icons - <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+
+React Redux: 
+        It is a JavaScript state Management Library. Most commonly used with Libraries such as React and Angular
+        for building UI.
+
+    1. Action 2. Reducer 3. Combine Reducer(Reducer) 4. Store(Combine Reducer) 5. connect Store in Index.JS
+
+Use Selector - Get the Data from the Store
+Dispatch - To Display the Data from the UseSelector
