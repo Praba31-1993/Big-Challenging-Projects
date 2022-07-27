@@ -1,3 +1,4 @@
 youtube Channel Link : https://youtu.be/JFStWmCb_60
 
 Day 1: 24/07/2022 - Project Starts Completed upto Basic setup and React router connection, Time Slot(29:30)
+Day 2: 27/07/2022 - Completed upto Header with Navbar Part and create files in redux folder, Time Slot(45:56)

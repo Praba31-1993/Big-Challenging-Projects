@@ -5,10 +5,12 @@ import Home from './pages/Home';
 import About from './pages/About';
 import UserInfo from './pages/UserInfo';
 import AddEditUser from './pages/AddEditUser';
+import Header from './components/Header';
 function App() {
   return (
     <BrowserRouter>
     <div className="App">
+      <Header/>
       <Switch>
         <Route exact path="/" component={Home}/>
         <Route path="/adduser" component={AddEditUser}/>
