@@ -13,3 +13,10 @@ What I Learnt in this Project:
 2. how to use var() in CSS.
 3. filter in CSS
 4. gap properties in flex(used to reduce gap between 2 Lines)
+5. like align-text we can also use align-self
+6. How to upload a image and display in the screen. Using useRef()
+
+
+Status about this Project:
+
+Day1 : (2022.08.06) completed upto 01hr:13minutes
