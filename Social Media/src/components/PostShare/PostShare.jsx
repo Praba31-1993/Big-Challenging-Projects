@@ -49,14 +49,14 @@ console.log("imagesName", image)
           Schedule
         </div>
         <button className="button ps-button">Share</button>
-        <div>
+        <div style={{display:"none"}}>
         <input type="file" name="myImage" ref={imageRef} onChange={ImageChangeURL}/>
       </div>
 
       </div>
     {image && (
         <div className="previewImage">
-            <UilTimes/>
+            <UilTimes onClick={()=>setImage(null)}/>
             <img src={image.image} alt=""/>
         </div>
     )} 
