@@ -28,20 +28,11 @@
   .Webname > h1 {
       font-size: 3rem;
       background-color: red;
-    
-      /* Create the gradient. */
+      -webkit-text-fill-color: transparent; 
       background-image: var(--buttonBg);
-      
-      /* Set the background size and repeat properties. */
       background-size: 100%;
       background-repeat: repeat;
-    
-      /* Use the text as a mask for the background. */
-      /* This will show the gradient as a text color rather than element bg. */
-      /* -webkit-background-clip: text;       */
-      -webkit-text-fill-color: transparent; 
-      /* -moz-background-clip: text;
-      -moz-text-fill-color: transparent; */
+
   }
   
   .Webname>h6{
